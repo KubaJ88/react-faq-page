@@ -9,7 +9,7 @@ const Sidebar = ({category, changeCategory, selected}) => {
         return element.category
     })))
 
-    // console.log(uniqueCategory.unshift('All'))
+    uniqueCategory.unshift('All')
 
     let uniquewithActive = uniqueCategory.map(element => {
         return {
