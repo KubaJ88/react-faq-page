@@ -8,7 +8,8 @@ const Sidebar = ({category, changeCategory, selected}) => {
     let uniqueCategory = Array.from(new Set(category.map(element => {
         return element.category
     })))
-    console.log(uniqueCategory.unshift('All'))
+
+    // console.log(uniqueCategory.unshift('All'))
 
     let uniquewithActive = uniqueCategory.map(element => {
         return {
