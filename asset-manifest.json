@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-faq-page/static/css/main.d42c7d4e.chunk.css",
+    "main.js": "/react-faq-page/static/js/main.636eacd0.chunk.js",
+    "main.js.map": "/react-faq-page/static/js/main.636eacd0.chunk.js.map",
+    "runtime-main.js": "/react-faq-page/static/js/runtime-main.5a345998.js",
+    "runtime-main.js.map": "/react-faq-page/static/js/runtime-main.5a345998.js.map",
+    "static/js/2.bfbb0290.chunk.js": "/react-faq-page/static/js/2.bfbb0290.chunk.js",
+    "static/js/2.bfbb0290.chunk.js.map": "/react-faq-page/static/js/2.bfbb0290.chunk.js.map",
+    "index.html": "/react-faq-page/index.html",
+    "precache-manifest.902208079f19d81e1e519f31356556f1.js": "/react-faq-page/precache-manifest.902208079f19d81e1e519f31356556f1.js",
+    "service-worker.js": "/react-faq-page/service-worker.js",
+    "static/css/main.d42c7d4e.chunk.css.map": "/react-faq-page/static/css/main.d42c7d4e.chunk.css.map",
+    "static/js/2.bfbb0290.chunk.js.LICENSE.txt": "/react-faq-page/static/js/2.bfbb0290.chunk.js.LICENSE.txt",
+    "static/media/questions.style.scss": "/react-faq-page/static/media/expand_more-24px.ca15223b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a345998.js",
+    "static/js/2.bfbb0290.chunk.js",
+    "static/css/main.d42c7d4e.chunk.css",
+    "static/js/main.636eacd0.chunk.js"
+  ]
+}
