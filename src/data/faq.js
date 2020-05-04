@@ -6,7 +6,7 @@ const faqData =
   id: 1,
   category: 'Server',
   question: 'What is the cost for Tableau Server?',
-  answer: (<Fragment>The cost for Tableau Server is <b>$2000</b>.
+  answer: (<Fragment>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In et dui eu justo ullamcorper varius ac sit amet lacus. Nunc rhoncus tristique mi, at tincidunt magna. In fermentum nisi urna. Vestibulum a rhoncus nulla
   
  
   
