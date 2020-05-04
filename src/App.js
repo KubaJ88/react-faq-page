@@ -70,7 +70,7 @@ function App() {
       <Sidebar category = {faqs} changeCategory={changeCategory} selected={category}/>
       <Questions faqs = {filtredFAQ} toogleFAQ={toogleFAQ} />
       <Footer/>
-      {/* <Calendar/> */}
+      
       </div>
       
       

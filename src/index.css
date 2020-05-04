@@ -39,7 +39,11 @@ code {
 @media screen and (max-width: 600px) {
 
   .flex{
-  grid-template-columns: repeat(1, 1fr); 
+  /* display: block; */
+  width: 100%;  
+  grid-template-columns: 1fr; 
+  /* background-color: yellow; */
+  /* grid-template-columns: repeat(auto-fill,minmax(200px,1fr)); */
   /* rid-auto-flow: column; */
   /* grid-template-rows: 1fr; */
 }}

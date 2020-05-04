@@ -8,6 +8,8 @@ $easeOutBack: cubic-bezier(0.175, 0.885, 0.320, 1.275);
 
 .navigation {
     // justify-content: center;
+    // display: grid;
+    
     
     // align-content: center;
     height: 350px;
@@ -25,9 +27,13 @@ $easeOutBack: cubic-bezier(0.175, 0.885, 0.320, 1.275);
     justify-self: end;
     position: relative;
     // grid-auto-flow: row;
+    // grid-auto-flow: row;
 
     @media (max-width: 600px) {
         font-size: 15px;
+        // display: block;
+        grid-auto-rows: row dense;
+        
     }
     // backface-visibility: hidden;
 
@@ -87,6 +93,8 @@ $easeOutBack: cubic-bezier(0.175, 0.885, 0.320, 1.275);
         // font-size: 30px;
         font-weight: 500;
         cursor: pointer;
+        // display: inline-block;
+        // grid-auto-rows: row dense;
         
         // position: relative;
         // transition: all 0.4s ease;
